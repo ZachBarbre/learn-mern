@@ -1,7 +1,7 @@
 {
   "name": "learn-mern",
   "version": "0.0.1",
-  "description": "Shopping list to learn Mern",
+  "description": "API for a Shopping list to learn Mern",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
