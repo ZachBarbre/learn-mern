@@ -10,7 +10,7 @@ import {
   Container
 } from 'reactstrap';
 
-const Nav = () => {
+const AppNav = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => {
@@ -40,4 +40,4 @@ const Nav = () => {
   )
 }
 
-export default Nav;
+export default AppNav;

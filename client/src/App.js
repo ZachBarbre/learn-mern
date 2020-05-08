@@ -1,12 +1,12 @@
 import React from 'react';
-import Nav from './components/Nav.jsx';
+import AppNav from './components/AppNav.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Nav />
+      <AppNav />
     </div>
   );
 }
